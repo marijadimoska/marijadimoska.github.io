@@ -2,4 +2,4 @@
 
 CV: Marija Dimoska
 
-This is personal portfolio / resume website test
+This is personal portfolio / resume website
